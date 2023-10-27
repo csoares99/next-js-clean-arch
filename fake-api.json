@@ -1,0 +1,39 @@
+{
+    "products": [
+        {
+          "id": "1",
+          "name": "Produto A",
+          "description": "Este é um ótimo produto.",
+          "price": 19.99,
+          "cover": "https://via.placeholder.com/150"
+        },
+        {
+          "id": "2",
+          "name": "Produto B",
+          "description": "Outro ótimo produto.",
+          "price": 29.99,
+          "cover": "https://via.placeholder.com/150"
+        },
+        {
+          "id": "3",
+          "name": "Produto C",
+          "description": "Você vai adorar este produto.",
+          "price": 39.99,
+          "cover": "https://via.placeholder.com/150"
+        },
+        {
+          "id": "4",
+          "name": "Produto D",
+          "description": "Este produto é imperdível.",
+          "price": 49.99,
+          "cover": "https://via.placeholder.com/150"
+        },
+        {
+          "id": "5",
+          "name": "Produto E",
+          "description": "Este é nosso produto mais vendido.",
+          "price": 59.99,
+          "cover": "https://via.placeholder.com/150"
+        }
+      ]
+}
